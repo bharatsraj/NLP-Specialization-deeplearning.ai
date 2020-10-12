@@ -198,7 +198,7 @@ It maps the input 'z' to a value that ranges between 0 and 1, and so it can be t
 
 </ul>
 </p>
-
+</details>
 
 
 
@@ -346,7 +346,7 @@ $$\mathbf{\theta} = \mathbf{\theta} - \frac{\alpha}{m} \times \left( \mathbf{x}^
     <li>To ensure that the fraction -1/m is a decimal value, cast either the numerator or denominator (or both), like `float(1)`, or write `1.` for the float version of 1. </li>
 </ul>
 </p>
-
+</details>
 
 
 
@@ -440,7 +440,7 @@ The resulting vector of weights is [4.1e-07, 0.00035658, 7.309e-05]
     <li> Search the web for hints about using the `.get()` method of a Python dictionary.  Here is an <a href="https://www.programiz.com/python-programming/methods/dictionary/get" > example </a> </li>
 </ul>
 </p>
-
+</details>
 
 
 ```python
@@ -647,6 +647,7 @@ After training your model using the training set above, check how your model mig
     <li>Use np.squeeze() to make an (m,1) dimensional array into an (m,) array </li>
 </ul>
 </p>
+</details>
 
 
 ```python
