@@ -118,7 +118,7 @@ Create a function `count_tweets()` that takes a list of tweets as input, cleans 
     <li>Assume that the `result` dictionary that is input will contain clean key-value pairs (you can assume that the values will be integers that can be incremented).  It is good practice to check the datatype before incrementing the value, but it's not required here.</li>
 </ul>
 </p>
-
+</details>
 
 ```python
 # UNQ_C1 (UNIQUE CELL IDENTIFIER, DO NOT EDIT)
